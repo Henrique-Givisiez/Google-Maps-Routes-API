@@ -1,5 +1,4 @@
 # utils/plot_routes.py
-import os
 import requests
 import datetime as dt
 import folium
