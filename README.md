@@ -26,6 +26,21 @@ graph TD;
     E --> F[Dashboard and Insights];
 ```
 
+## 📊 Sample Power BI Insights
+Below are some sample Power BI visuals generated using the dataset built by this notebook.
+
+<p align="start">
+  <img src="./images/dashboard-geral.png" alt="Power BI Tasks Overview" width="50%"/>
+</p>
+
+<p align="start">
+  <img src="./images/dashboard_rotas.png" alt="Cycle Time per Task" width="50%"/>
+</p>
+
+<p align="start">
+  <img src="./images/dashboard_trafego.png" alt="Cumulative Flow Diagram" width="50%"/>
+</p>
+
 ## 🔧 Steps
 1. Data Collection
     - Uses the Google Maps Routes API to capture:
@@ -98,6 +113,22 @@ graph TD;
     D --> E[Power BI];
     E --> F[Dashboard e Insights];
 ```
+
+## 📊 Exemplos de Dashboards no Power BI
+Abaixo estão alguns exemplos de dashboards desenvolvidos a partir dos dados processados neste notebook.
+
+<p align="start">
+  <img src="./images/dashboard-geral.png" alt="Power BI Tasks Overview" width="50%"/>
+</p>
+
+<p align="start">
+  <img src="./images/dashboard_rotas.png" alt="Cycle Time per Task" width="50%"/>
+</p>
+
+<p align="start">
+  <img src="./images/dashboard_trafego.png" alt="Cumulative Flow Diagram" width="50%"/>
+</p>
+
 
 ## 🔧 Etapas
 1. Coleta de Dados
